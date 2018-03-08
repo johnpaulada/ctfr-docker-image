@@ -1,5 +1,5 @@
 # CTFR Docker Image
-A lightweight Docker image for the [CTFR](https://github.com/UnaPibaGeek/ctfr) project by [Sheila A. Berta](https://github.com/UnaPibaGeek).
+A lightweight (165MB) Docker image for the [CTFR](https://github.com/UnaPibaGeek/ctfr) project by [Sheila A. Berta](https://github.com/UnaPibaGeek).
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
