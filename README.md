@@ -11,6 +11,9 @@ It's a project for:
 
 It basically tries to get the subdomains of websites on HTTPS.
 
+## Asciicast
+[![asciicast](https://asciinema.org/a/167914.png)](https://asciinema.org/a/167914)
+
 ## How to use
 0. Make sure Docker is installed.
 1. Run `docker pull johnpaulada/ctfr`.
